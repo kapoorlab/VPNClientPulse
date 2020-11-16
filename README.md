@@ -13,4 +13,4 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/pulse
 
 
 
-For getting the package that works on Open Suse (verified), Google Chrome Linux OS (verified) unzip the file loaded via github lfs, it contains the unpackaged code with required library so files that you have to move to system install folders (/usr/lib for many systems)
+For getting the package that works on Open Suse (verified), Google Chrome Linux OS (verified) unzip the file loaded via github lfs, it contains the unpackaged code with required library .so extension files that you have to move to system install folders (/usr/lib for many systems)
